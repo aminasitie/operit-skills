@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Contoh skill sederhana untuk demonstrasi",
+  "author": "Aminasitie",
+  "category": "Contoh",
+  "keywords": ["hello", "world", "contoh", "demo"],
+  "main": "index.js",
+  "engines": {
+    "operit": ">=1.0.0"
+  },
+  "license": "MIT"
+}
