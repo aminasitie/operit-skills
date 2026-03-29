@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build
+build/
+dist/
+
+# Environment
+.env
+.env.local
+
+# Testing
+coverage/
+.nyc_output/
+
+# Package files
+*.tgz
+*.tar.gz
+
+# Temporary files
+tmp/
+temp/
