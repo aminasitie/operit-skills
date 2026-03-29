@@ -1,0 +1,13 @@
+{
+  "name": "skill-template",
+  "version": "1.0.0",
+  "description": "Template untuk membuat skill Operit baru",
+  "author": "Your Name",
+  "category": "Template",
+  "keywords": ["template", "contoh"],
+  "main": "index.js",
+  "engines": {
+    "operit": ">=1.0.0"
+  },
+  "license": "MIT"
+}
